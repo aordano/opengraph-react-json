@@ -1,0 +1,14 @@
+{
+  "name": "opengraph-react-json",
+  "version": "0.1.0",
+  "description": "OpenGraph metadata tags generator for React. It reads from a .json file with the same name of the filename from where it is being called.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Ágata Irene Ordano",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
+}
